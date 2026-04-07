@@ -164,9 +164,7 @@ dano = ataque - defesa
 
 ---
 
-<video src="rpg.mp4" width="100%" controls>
-  Seu navegador não suporta o player de vídeo.
-</video>
+
 
 ##  Considerações finais
 
