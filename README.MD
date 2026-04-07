@@ -130,7 +130,7 @@ dano = ataque - defesa
 
 ---
 
-### 🏆 Resultado da batalha
+###  Resultado da batalha
 
 * Se o jogador vencer:
 
@@ -163,6 +163,8 @@ dano = ataque - defesa
 * Deploy do projeto
 
 ---
+
+
 
 ##  Considerações finais
 
